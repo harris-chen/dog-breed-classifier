@@ -4,4 +4,3 @@ Given an image of a dog, the Convolutional Neural Networks(CNN) will identify an
 
 
 
-### (Currently building an Android App based on Python code in Jupyter Notebook)
